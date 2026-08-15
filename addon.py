@@ -117,7 +117,7 @@ def get_manifest(api_key: str = ""):
     return {
         "id": "community.telegram.stremio.addon",
         "version": "1.0.0",
-        "name": "Telegram Addon by SunilRoy-dev",
+        "name": "Telegram",
         "description": "Personal Telegram streaming proxy. For educational & personal testing only. Do not use for unauthorized hosting of copyrighted media.",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
         "resources": ["meta", "stream", "subtitles"],
